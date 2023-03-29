@@ -1,6 +1,8 @@
 Step to JSON server
 -------------------------------------------------
-install: npm i json-server.
+open comand prompt and run: npm init -y
+
+install: npm i json-server
 
 create db.json file.
 
