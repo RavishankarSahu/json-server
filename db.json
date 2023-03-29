@@ -1,0 +1,15 @@
+{
+  "posts": [
+    {
+      "title": "JSON post Exe 1",
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "name": "Teena",
+      "age": "30",
+      "city": "Delhi"
+    }
+  ]
+}
