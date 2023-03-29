@@ -1,4 +1,4 @@
-Setp to JSON server
+Step to JSON server
 -------------------------------------------------
 install: npm i json-server
 create db.json file
@@ -9,7 +9,7 @@ add  script in package.json file   "scripts": {
 
 
 ---------------------------------
-Rectjs
+Step to Rectjs
 --------------------------------
 create new React js project 
 replace App.js file with this App.jsx file
